@@ -1,5 +1,10 @@
 ## Hi there 👋
+My name is Sergey. I am a Data Scientist looking for a job.
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 🔭 I’m currently working on Data Science and Algorythms
+- 🤔 I’m looking for help with job
+- 🌱 I’m currently reading Python for DevOps: Learn Ruthlessly Effective Automation
 <!--
 **Sergey-Misyura/Sergey-Misyura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
