@@ -22,22 +22,22 @@ My name is Sergey. I am a Data Scientist looking for a job.
     ● Airline dataset analysis and interactive dashboard <a href=https://github.com/Sergey-Misyura/IBM-Data-Science/blob/main/8.%20Visualizing%20Data%20with%20Python/Module%206%20-%20Creating%20Dashboards%20with%20Plotly%20and%20Dash/dash_interactivity2.py>Airline interactive</a><br>
     ● Alysis of agricultural crops based on changes in vegetation indices in time sequence <a href=https://github.com/Sergey-Misyura/digital-breakthrough/tree/main/Innopolis>Agricultural classifier</a><br>
     ● Alysis of Falcon 9 first stage landing success <a href=https://github.com/Sergey-Misyura/IBM-Data-Science/blob/main/10.%20Data%20Science%20and%20Machine%20Learning%20Capstone%20Project/Module%205%20-%20Present%20Your%20Data-Driven%20Insights/ds-capstone-template-edx.pdf>Falcon 9 project</a><br>
-
+</details>
 
 <details><summary><h2>Certificates</h2></summary>
 Content goes here.
 </details>
 
 <details><summary><h2>Books</h2></summary>
-    ● Data Science from scratch (2021). Joel Grus
-    ● Python One-Liners: Write Concise, Eloquent Python Like a Professional (2022). Christian Mayer
-    ● Machine Learning with Python Cookbook (2018). Chris Albon
-    ● Pure Python. The intricacies of programming for the pros (2018). Dan Bader 
-    ● Practical Statistics for Data Scientists (2018). Andrew Bruce and Peter Bruce
-    ● Self-taught programmer (2018). Cory Althoff
-    ● ТЕОРИЯ ВЕРОЯТНОСТЕЙ И МАТЕМАТИЧЕСКАЯ СТАТИСТИКА (2018). Е. А. ТРОФИМОВА, Н. В. КИСЛЯК, Д. В. ГИЛЁВ
-    ● Python data science Handbook (2016). Jake Vanderplas
-    ● Introducing Python (2014). Bill Lubanovic.   
+    ● Data Science from scratch (2021). Joel Grus<br>
+    ● Python One-Liners: Write Concise, Eloquent Python Like a Professional (2022). Christian Mayer<br>
+    ● Machine Learning with Python Cookbook (2018). Chris Albon<br>
+    ● Pure Python. The intricacies of programming for the pros (2018). Dan Bader <br>
+    ● Practical Statistics for Data Scientists (2018). Andrew Bruce and Peter Bruce<br>
+    ● Self-taught programmer (2018). Cory Althoff<br>
+    ● ТЕОРИЯ ВЕРОЯТНОСТЕЙ И МАТЕМАТИЧЕСКАЯ СТАТИСТИКА (2018). Е. А. ТРОФИМОВА, Н. В. КИСЛЯК, Д. В. ГИЛЁВ<br>
+    ● Python data science Handbook (2016). Jake Vanderplas<br>
+    ● Introducing Python (2014). Bill Lubanovic <br>
 </details>
 
 <details><summary><h2>Additional education/Courses</h2></summary>
