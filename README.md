@@ -29,7 +29,15 @@ Content goes here.
 </details>
 
 <details><summary><h2>Books</h2></summary>
-Content goes here.
+    ● Data Science from scratch (2021). Joel Grus
+    ● Python One-Liners: Write Concise, Eloquent Python Like a Professional (2022). Christian Mayer
+    ● Machine Learning with Python Cookbook (2018). Chris Albon
+    ● Pure Python. The intricacies of programming for the pros (2018). Dan Bader 
+    ● Practical Statistics for Data Scientists (2018). Andrew Bruce and Peter Bruce
+    ● Self-taught programmer (2018). Cory Althoff
+    ● ТЕОРИЯ ВЕРОЯТНОСТЕЙ И МАТЕМАТИЧЕСКАЯ СТАТИСТИКА (2018). Е. А. ТРОФИМОВА, Н. В. КИСЛЯК, Д. В. ГИЛЁВ
+    ● Python data science Handbook (2016). Jake Vanderplas
+    ● Introducing Python (2014). Bill Lubanovic.   
 </details>
 
 <details><summary><h2>Additional education/Courses</h2></summary>
