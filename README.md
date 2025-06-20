@@ -1,11 +1,11 @@
 ## Hi there 👋
-My name is Sergey. I am a Data Scientist looking for a job.
+My name is Sergey. I am a Data Scientist.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Working on: 🚀
-- 🔭 I’m currently working on Data Science and Algorythms
-- 🤔 I’m looking for help with job
-- 🌱 I’m currently reading Python for DevOps: Learn Ruthlessly Effective Automation
+- 🔭 I am currently working as a junior DS
+- 🤔 I’m looking for help becoming a middle
+- 🌱 I’m currently reading Deep Learning by Ian Goodfellow
 
 ### Algorithms [LeetCode](https://leetcode.com/u/Sergey-Misyura/)
 
